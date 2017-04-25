@@ -1,0 +1,14 @@
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\bin\Debug\Lection2_designPatterns.dll.config
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\bin\Debug\Lection2_designPatterns.dll
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\bin\Debug\Lection2_designPatterns.pdb
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\bin\Debug\Dapper.dll
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\bin\Debug\nunit.framework.dll
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\bin\Debug\WebDriver.dll
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\bin\Debug\WebDriver.Support.dll
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\bin\Debug\Dapper.xml
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\bin\Debug\nunit.framework.xml
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\bin\Debug\WebDriver.xml
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\bin\Debug\WebDriver.Support.xml
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\obj\Debug\Lection2_designPatterns.dll
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\obj\Debug\Lection2_designPatterns.pdb
+C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\obj\Debug\Lection2_designPatterns.csprojResolveAssemblyReference.cache

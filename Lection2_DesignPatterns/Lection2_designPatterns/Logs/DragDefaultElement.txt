@@ -1,0 +1,1 @@
+Lection2_designPatterns.ToolsQATests.DragDefaultElement        C:\Users\Rally\Documents\Visual Studio 2015\Projects\Lection2_DesignPatterns\Lection2_designPatterns\bin\Debug            0
